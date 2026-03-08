@@ -10,7 +10,7 @@ export const portfolioData: PortfolioData = {
     github: "",
     location: "Punjab, India",
     summary:
-      "Full Stack Developer with 2+ years of experience in designing and maintaining scalable web applications using React, Node.js, and Django. Experienced in Agile environments, CI/CD pipelines, and cloud deployment.",
+      "Full Stack Developer with 2+ years of experience in designing and maintaining scalable web applications using React, Node.js, and Django. Experience in Agile environments, CI/CD pipelines, and cloud deployment.",
   },
   experience: [
     {

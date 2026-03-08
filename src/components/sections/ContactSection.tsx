@@ -48,7 +48,7 @@ export default function ContactSection() {
         {/* Contact Info */}
         <div className="space-y-4">
           <p className="text-sm text-netflix-light-gray leading-relaxed">
-            I&apos;m always open to discussing new projects, creative ideas, or
+            I&apos;m always open to discuss new projects, creative ideas and
             opportunities. Feel free to reach out!
           </p>
           <div className="space-y-3">
